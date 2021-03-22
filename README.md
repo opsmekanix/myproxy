@@ -1,2 +1,2 @@
 # myproxy
-simple proxy pac file hosting, nothing to see jere
+simple proxy pac file hosting, nothing to see here
